@@ -1,0 +1,3 @@
+1. Run the program to see the error.
+2. Get error "Unexpected indent" at the print() line.
+3. Fix it by adjusting the indent correctly.

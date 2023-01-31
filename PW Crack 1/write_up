@@ -1,0 +1,7 @@
+1. Take a look in the code.
+1. Run the program.
+2. When being asked for a password enter some random characters to check the error messages.
+3. Take note at these lines
+if (user_pw == "1e1a"):
+    print("Welcome back... your flag, user:")
+4. Run the program again and enter 1e1a for the password.
